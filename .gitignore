@@ -1,0 +1,11 @@
+**/.idea
+**/__pycache__
+**/target/
+**/target/**
+*.iml
+*.jar
+**/.mvn
+**/.mvn/
+**/.mvn/**
+**/mvnw
+**/mvnw.cmd
